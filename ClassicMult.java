@@ -1,4 +1,5 @@
-package project1;
+// package project1;
+// package project.path.goes.here;
 
 import java.util.Scanner;
 
